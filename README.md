@@ -14,7 +14,9 @@ The website tracks:
 * DevOps projects
 * Growth statistics
 
-## Features
+## Live link
+
+https://alokdevops43.github.io/devops-journey/
 
 ### Hero Section
 
@@ -106,9 +108,7 @@ Current Roadmap:
 * Certification showcase
 * Contact page
 
-## Live link
 
-https://alokdevops43.github.io/devops-journey/
 
 ## Author
 
